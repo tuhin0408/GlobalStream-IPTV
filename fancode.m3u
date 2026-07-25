@@ -1,9 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Cricket",Pakistan Women Vs Sri Lanka Women
+https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Cricket",Malaysia Xi Vs Sea Hawks Cricket Club
 https://bd-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-name="Japan   Race 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png" group-title="Motorsports",Japan   Race 1
+https://bd-mc-pdlive.fancode.com/mumbai/143794_english_hls_fafc6faf7b4112_1ta-di_h264/index.m3u8
+
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Cricket",Pakistan Women Vs Sri Lanka Women
+https://in-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Cricket",Malaysia Xi Vs Sea Hawks Cricket Club
 https://in-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Japan   Race 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png" group-title="Motorsports",Japan   Race 1
+https://in-mc-pdlive.fancode.com/mumbai/143794_english_hls_fafc6faf7b4112_1ta-di_h264/index.m3u8
