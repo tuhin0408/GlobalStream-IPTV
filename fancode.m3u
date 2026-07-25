@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket",India Vs Zimbabwe
+Unavailable
+
+#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket",India Vs Zimbabwe
+Unavailable
+
 #EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Cricket",Pakistan Women Vs Sri Lanka Women
 https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
 
@@ -9,19 +15,22 @@ Unavailable
 #EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246722_CASACARDS_SPORTY_APP.png" group-title="Cricket",Galle Gallants Vs Kandy Royals
 https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket",India Vs Zimbabwe
-Unavailable
-
-#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket",India Vs Zimbabwe
-Unavailable
-
-#EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Practice 3
-https://bd-mc-pdlive.fancode.com/mumbai/139474_english_hls_cb09c4273596597_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="Day 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Tennis",Day 6
 https://bd-mc-pdlive.fancode.com/mumbai/143508_english_hls_92168a39226791_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-name="Race 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports",Race 1
+https://bd-mc-pdlive.fancode.com/mumbai/143799_english_hls_c362f1d13033774_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf",Day 3   World Feed
+https://bd-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8
+
 #EXTM3U
+
+#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket",India Vs Zimbabwe
+Unavailable
+
+#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket",India Vs Zimbabwe
+Unavailable
 
 #EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Cricket",Pakistan Women Vs Sri Lanka Women
 https://in-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
@@ -32,14 +41,11 @@ Unavailable
 #EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246722_CASACARDS_SPORTY_APP.png" group-title="Cricket",Galle Gallants Vs Kandy Royals
 https://in-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket",India Vs Zimbabwe
-Unavailable
-
-#EXTINF:-1 tvg-name="India Vs Zimbabwe" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket",India Vs Zimbabwe
-Unavailable
-
-#EXTINF:-1 tvg-name="Practice 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Practice 3
-https://in-mc-pdlive.fancode.com/mumbai/139474_english_hls_cb09c4273596597_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="Day 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Tennis",Day 6
 https://in-mc-pdlive.fancode.com/mumbai/143508_english_hls_92168a39226791_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Race 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports",Race 1
+https://in-mc-pdlive.fancode.com/mumbai/143799_english_hls_c362f1d13033774_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf",Day 3   World Feed
+https://in-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8
