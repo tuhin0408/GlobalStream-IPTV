@@ -12,6 +12,9 @@ https://bd-mc-pdlive.fancode.com/mumbai/4246803_english_hls_7c0d958ec349342_1ta-
 #EXTINF:-1 tvg-name="Day 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis",Day 6
 https://bd-mc-pdlive.fancode.com/mumbai/143514_english_hls_9205c863a887330_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf",Day 3   World Feed
+https://bd-mc-pdlive.fancode.com/mumbai/4246804_english_hls_4519eb4cde71293_1ta-di_h264/index.m3u8
+
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Colombo Kaps Vs Dambulla Sixers" tvg-logo="https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png" group-title="Cricket",Colombo Kaps Vs Dambulla Sixers
@@ -25,3 +28,6 @@ https://in-mc-pdlive.fancode.com/mumbai/4246803_english_hls_7c0d958ec349342_1ta-
 
 #EXTINF:-1 tvg-name="Day 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis",Day 6
 https://in-mc-pdlive.fancode.com/mumbai/143514_english_hls_9205c863a887330_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf",Day 3   World Feed
+https://in-mc-pdlive.fancode.com/mumbai/4246804_english_hls_4519eb4cde71293_1ta-di_h264/index.m3u8
