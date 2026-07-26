@@ -6,14 +6,8 @@ https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-
 #EXTINF:-1 tvg-name="Day 4   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf",Day 4   World Feed
 https://bd-mc-pdlive.fancode.com/mumbai/4247420_english_hls_e4f538fa6759596_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race
-https://bd-mc-pdlive.fancode.com/mumbai/139476_english_hls_cf562dba5f52319_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race
-https://bd-mc-pdlive.fancode.com/mumbai/139476_hindi_hls_6550f6366226994_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race
-https://bd-mc-pdlive.fancode.com/mumbai/139476_tamil_hls_8675b9f21c93259_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Race 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports",Race 2
+https://bd-mc-pdlive.fancode.com/mumbai/143801_english_hls_0f8f9524c923636_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
@@ -26,14 +20,8 @@ https://in-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-
 #EXTINF:-1 tvg-name="Day 4   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf",Day 4   World Feed
 https://in-mc-pdlive.fancode.com/mumbai/4247420_english_hls_e4f538fa6759596_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race
-https://in-mc-pdlive.fancode.com/mumbai/139476_english_hls_cf562dba5f52319_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race
-https://in-mc-pdlive.fancode.com/mumbai/139476_hindi_hls_6550f6366226994_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1",Race
-https://in-mc-pdlive.fancode.com/mumbai/139476_tamil_hls_8675b9f21c93259_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Race 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports",Race 2
+https://in-mc-pdlive.fancode.com/mumbai/143801_english_hls_0f8f9524c923636_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan
 https://in-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
