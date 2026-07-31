@@ -3,7 +3,19 @@
 #EXTINF:-1 tvg-name="Netherlands Vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246706_52990_NED_NAM_fc-App.png" group-title="Cricket",Netherlands Vs Namibia
 https://bd-mc-pdlive.fancode.com/mumbai/4246706_english_hls_0477c0fff848776_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-name="Indian Royals Vs Bangladesh Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg" group-title="Cricket",Indian Royals Vs Bangladesh Tigers
+Unavailable
+
+#EXTINF:-1 tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 2
+Unavailable
+
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Netherlands Vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246706_52990_NED_NAM_fc-App.png" group-title="Cricket",Netherlands Vs Namibia
 https://in-mc-pdlive.fancode.com/mumbai/4246706_english_hls_0477c0fff848776_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Indian Royals Vs Bangladesh Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248192_53019_INR_BAT_fc-web.jpg" group-title="Cricket",Indian Royals Vs Bangladesh Tigers
+Unavailable
+
+#EXTINF:-1 tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 2
+Unavailable
