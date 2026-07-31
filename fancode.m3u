@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Purani Dilli 6 Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png" group-title="Cricket",Purani Dilli 6 Vs Central Delhi Kings
-https://bd-mc-pdlive.fancode.com/mumbai/4247965_english_hls_7a1f83336319019_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Birmingham City F.c. Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barca.png" group-title="Football",Birmingham City F.c. Vs Fc Barcelona
-https://bd-mc-pdlive.fancode.com/mumbai/4248218_english_hls_344fd577a419508_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 2
-https://bd-mc-pdlive.fancode.com/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Tennis",World Feed
 https://bd-mc-pdlive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8
 
@@ -16,15 +7,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-d
 https://bd-mc-pdlive.fancode.com/mumbai/4248045_english_hls_4260a2ee9454413_1ta-di_h264/index.m3u8
 
 #EXTM3U
-
-#EXTINF:-1 tvg-name="Purani Dilli 6 Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png" group-title="Cricket",Purani Dilli 6 Vs Central Delhi Kings
-https://in-mc-pdlive.fancode.com/mumbai/4247965_english_hls_7a1f83336319019_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Birmingham City F.c. Vs Fc Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barca.png" group-title="Football",Birmingham City F.c. Vs Fc Barcelona
-https://in-mc-pdlive.fancode.com/mumbai/4248218_english_hls_344fd577a419508_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 2
-https://in-mc-pdlive.fancode.com/mumbai/4248046_english_hls_51fcc84f2978352_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Tennis",World Feed
 https://in-mc-pdlive.fancode.com/mumbai/143648_english_hls_c8a11fe48289952_1ta-di_h264/index.m3u8
