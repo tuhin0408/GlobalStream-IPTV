@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Sri Lankan Lions Vs Bangladesh Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248193_53019_SLO_BAT_fc-web.jpg" group-title="Cricket",Sri Lankan Lions Vs Bangladesh Tigers
-Unavailable
-
 #EXTINF:-1 tvg-name="West Delhi Lions Vs New Delhi Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Cricket",West Delhi Lions Vs New Delhi Tigers
 https://bd-mc-pdlive.fancode.com/mumbai/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8
 
@@ -12,13 +9,13 @@ https://bd-mc-pdlive.fancode.com/mumbai/4246729_english_hls_5446b7db6477233_1ta-
 #EXTINF:-1 tvg-name="Manchester United Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Atletico-Madrid_Web-match-card.png" group-title="Football",Manchester United Vs Atletico De Madrid
 https://bd-mc-pdlive.fancode.com/mumbai/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-name="Real Madrid Vs Fiorentina" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-vs-Fiorentina_Web-match-card.png" group-title="Football",Real Madrid Vs Fiorentina
+https://bd-mc-pdlive.fancode.com/mumbai/4248016_english_hls_d97e92363555615_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 3
 Unavailable
 
 #EXTM3U
-
-#EXTINF:-1 tvg-name="Sri Lankan Lions Vs Bangladesh Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248193_53019_SLO_BAT_fc-web.jpg" group-title="Cricket",Sri Lankan Lions Vs Bangladesh Tigers
-Unavailable
 
 #EXTINF:-1 tvg-name="West Delhi Lions Vs New Delhi Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Cricket",West Delhi Lions Vs New Delhi Tigers
 https://in-mc-pdlive.fancode.com/mumbai/4247967_english_hls_7c5b95df4699270_1ta-di_h264/index.m3u8
@@ -28,6 +25,9 @@ https://in-mc-pdlive.fancode.com/mumbai/4246729_english_hls_5446b7db6477233_1ta-
 
 #EXTINF:-1 tvg-name="Manchester United Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-vs-Atletico-Madrid_Web-match-card.png" group-title="Football",Manchester United Vs Atletico De Madrid
 https://in-mc-pdlive.fancode.com/mumbai/4248012_english_hls_b9ec92b1bb56698_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid Vs Fiorentina" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-vs-Fiorentina_Web-match-card.png" group-title="Football",Real Madrid Vs Fiorentina
+https://in-mc-pdlive.fancode.com/mumbai/4248016_english_hls_d97e92363555615_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf",Main Feed   Day 3
 Unavailable
