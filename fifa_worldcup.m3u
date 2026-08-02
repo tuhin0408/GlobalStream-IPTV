@@ -771,6 +771,10 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/40630.ts
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/429798.ts
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/638806.jpg" group-title="Server 5-FIFA",USA LiveNOW from FOX
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/638806.ts
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177052.jpg" group-title="Server 5-FIFA",MLB 15: Arizona Diamondbacks VS Cleveland Guardians (FOX Feed ) @ 19:15
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/177052.ts
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177055.jpg" group-title="Server 5-FIFA",MLB 18: New York Yankees VS Chicago Cubs (FOX Feed ) @ 19:15
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/177055.ts
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/3889.jpg" group-title="Server 5-FIFA",USA Telemundo 51 WSCV
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3889.ts
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/2401.jpg" group-title="Server 5-FIFA",USA Telemundo Boston WNEU
