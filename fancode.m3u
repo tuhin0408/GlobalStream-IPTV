@@ -1,9 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="New Delhi Tigers Vs Outer Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" group-title="Cricket",New Delhi Tigers Vs Outer Delhi Warriors
+#EXTINF:-1 tvg-name="New Delhi Tigers Vs Outer Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247970_53005_NDT_ODW_fc-Web_1785835769882.png" group-title="Cricket",New Delhi Tigers Vs Outer Delhi Warriors
 https://bd-mc-pdlive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="South Delhi Superstarz Vs West Delhi Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247978_53005_SDS_WDL_fc-Web_1785835769253.png" group-title="Cricket",South Delhi Superstarz Vs West Delhi Lions
+https://bd-mc-pdlive.fancode.com/mumbai/4247978_english_hls_6c7295b1e677335_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan
+https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="New Delhi Tigers Vs Outer Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" group-title="Cricket",New Delhi Tigers Vs Outer Delhi Warriors
+#EXTINF:-1 tvg-name="New Delhi Tigers Vs Outer Delhi Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247970_53005_NDT_ODW_fc-Web_1785835769882.png" group-title="Cricket",New Delhi Tigers Vs Outer Delhi Warriors
 https://in-mc-pdlive.fancode.com/mumbai/4247970_english_hls_96c0e7798b23998_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="South Delhi Superstarz Vs West Delhi Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247978_53005_SDS_WDL_fc-Web_1785835769253.png" group-title="Cricket",South Delhi Superstarz Vs West Delhi Lions
+https://in-mc-pdlive.fancode.com/mumbai/4247978_english_hls_6c7295b1e677335_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan
+https://in-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8
