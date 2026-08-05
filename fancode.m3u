@@ -6,11 +6,14 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247969_english_hls_530117550a4719_1ta-d
 #EXTINF:-1 tvg-name="Jaffna Kings Vs Galle Gallants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg" group-title="Cricket",Jaffna Kings Vs Galle Gallants
 https://bd-mc-pdlive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Ireland Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" group-title="Cricket",Ireland Vs Afghanistan
-https://bd-mc-pdlive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="United Arab Emirates Vs Canada" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248213_53013_UAE_CAN_fc-Web.png" group-title="Cricket",United Arab Emirates Vs Canada
 https://bd-mc-pdlive.fancode.com/mumbai/4248213_english_hls_8b9cbf1c6252001_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Chelsea Vs Juventus" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png" group-title="Football",Chelsea Vs Juventus
+https://bd-mc-pdlive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan
+https://bd-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838648530_1ta-di_h264/index.m3u8
 
 #EXTM3U
 
@@ -20,8 +23,11 @@ https://in-mc-pdlive.fancode.com/mumbai/4247969_english_hls_530117550a4719_1ta-d
 #EXTINF:-1 tvg-name="Jaffna Kings Vs Galle Gallants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg" group-title="Cricket",Jaffna Kings Vs Galle Gallants
 https://in-mc-pdlive.fancode.com/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Ireland Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" group-title="Cricket",Ireland Vs Afghanistan
-https://in-mc-pdlive.fancode.com/mumbai/4248054_english_hls_03789dd60351500_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="United Arab Emirates Vs Canada" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248213_53013_UAE_CAN_fc-Web.png" group-title="Cricket",United Arab Emirates Vs Canada
 https://in-mc-pdlive.fancode.com/mumbai/4248213_english_hls_8b9cbf1c6252001_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Chelsea Vs Juventus" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Juventus_Web-match-card.png" group-title="Football",Chelsea Vs Juventus
+https://in-mc-pdlive.fancode.com/mumbai/4248018_english_hls_82101a2f121210_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket",West Indies Vs Pakistan
+https://in-mc-pdlive.fancode.com/mumbai/143634_english_hls_3a8752838648530_1ta-di_h264/index.m3u8
