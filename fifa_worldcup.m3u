@@ -771,10 +771,18 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/40630.ts
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/429798.ts
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/638806.jpg" group-title="Server 5-FIFA",USA LiveNOW from FOX
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/638806.ts
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/38039.jpg" group-title="Server 5-FIFA",Soccer01: Bayern München vs Aston Villa ( FOX Deportes Feed ) @ 8:00 am
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/38039.jpg" group-title="Server 5-FIFA",Soccer01: Chelsea vs Milan ( FOX Deportes Feed ) @ 8:00 am
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/38039.ts
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21812.jpg" group-title="Server 5-FIFA",Soccer02: Bayern München vs Aston Villa ( FOX One Feed ) @ 8:00 am
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21812.jpg" group-title="Server 5-FIFA",Soccer02: Chelsea vs Milan ( FOX One Feed ) @ 8:00 am
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/21812.ts
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21830.jpg" group-title="Server 5-FIFA",Soccer10: Pacific FC vs Inter Toronto ( Fox Sports 2 USA Feed ) @ 5:00 pm
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/21830.ts
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21832.jpg" group-title="Server 5-FIFA",Soccer12: Pacific FC vs Inter Toronto ( FOX One Feed ) @ 5:00 pm
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/21832.ts
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21834.jpg" group-title="Server 5-FIFA",Soccer14: Supra du Quebec vs Cavalry ( Fox Sports 2 USA Feed ) @ 8:00 pm
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/21834.ts
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21836.jpg" group-title="Server 5-FIFA",Soccer16: Supra du Quebec vs Cavalry ( FOX One Feed ) @ 8:00 pm
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/21836.ts
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/3889.jpg" group-title="Server 5-FIFA",USA Telemundo 51 WSCV
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3889.ts
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/2401.jpg" group-title="Server 5-FIFA",USA Telemundo Boston WNEU
