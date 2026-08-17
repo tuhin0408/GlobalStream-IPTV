@@ -1,17 +1,6 @@
+#EXTM3U
 
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 first byte timeout</title>
-  </head>
-  <body>
-    <h1>Error 503 first byte timeout</h1>
-    <p>first byte timeout</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-hhr-khhr2060033-HHR 1786982095 4091668023</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+#EXTINF:-1 tvg-id="tapmad-16137" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869751111020x576WOMEN.jpg" group-title="Hockey", Germany vs Argentina - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16138" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869752671020x576WOMEN.jpg" group-title="Hockey", Australia vs Netherlands - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
